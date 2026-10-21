@@ -1,0 +1,4 @@
+data/raw/swiggy.csv
+*.db
+__pycache__/
+venv/
